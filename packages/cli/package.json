@@ -2,6 +2,9 @@
   "name": "js-notebook-lerna",
   "version": "1.0.0",
   "description": "",
+  "publishConfig": {
+    "access": "public"
+  },
   "files": [
     "dist"
   ],
